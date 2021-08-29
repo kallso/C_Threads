@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Threads_3Poppy.dir/lawson_exo3.c.o -o Threads_3Poppy  -lpthread 

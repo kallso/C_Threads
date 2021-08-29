@@ -1,0 +1,9 @@
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads_2Poppy.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads_4.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads_3.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads_2.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads_1.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads_3Poppy.dir
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/cmake-build-debug/CMakeFiles/Threads.dir

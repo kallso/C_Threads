@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Threads_2.dir/costes_exo2.c.o -o Threads_2  -lpthread 

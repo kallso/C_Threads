@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/Threads/main.c
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Threads_4.dir/costes_exo4.c.o -o Threads_4  -lpthread 
